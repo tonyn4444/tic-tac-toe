@@ -1,0 +1,25 @@
+body {
+  background-color: grey;
+}
+
+table {
+  margin: auto;
+}
+
+h1 {
+  text-align: center;
+}
+
+.vertical {
+  border-right: 2px black solid;
+}
+
+.horizontal {
+  border-top: 2px black solid;
+}
+
+
+td {
+  width: 100px;
+  height: 100px
+}
